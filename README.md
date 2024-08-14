@@ -1,5 +1,7 @@
 # Pyspark Recap
 
+![PySpark Overview](Spark-Recap/61515pyspark-filter.png)
+*Figure 1: Overview of PySpark Operations*
 This repository provides a concise recap of PySpark operations focusing on RDD (Resilient Distributed Dataset) and DataFrame operations. It includes Jupyter notebooks and datasets to help understand the key concepts and functionalities of PySpark.
 
 ## Repository Structure
